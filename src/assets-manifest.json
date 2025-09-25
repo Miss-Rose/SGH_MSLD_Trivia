@@ -1,0 +1,129 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "audios/Achievement_SlideIn.mp3"
+          ],
+          "srcs": [
+            "audios/Achievement_SlideIn.mp3",
+            "audios/Achievement_SlideIn.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/ButtonClick.mp3"
+          ],
+          "srcs": [
+            "audios/ButtonClick.mp3",
+            "audios/ButtonClick.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/CardFold.mp3"
+          ],
+          "srcs": [
+            "audios/CardFold.mp3",
+            "audios/CardFold.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/Fail_Buzzer_medium.mp3"
+          ],
+          "srcs": [
+            "audios/Fail_Buzzer_medium.mp3",
+            "audios/Fail_Buzzer_medium.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/Music_Funny Cartoon.mp3"
+          ],
+          "srcs": [
+            "audios/Music_Funny Cartoon.mp3",
+            "audios/Music_Funny Cartoon.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/Punch.mp3"
+          ],
+          "srcs": [
+            "audios/Punch.mp3",
+            "audios/Punch.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audios/Whoosh.mp3"
+          ],
+          "srcs": [
+            "audios/Whoosh.mp3",
+            "audios/Whoosh.ogg"
+          ]
+        },
+        {
+          "name": [
+            "bg.jpg"
+          ],
+          "srcs": [
+            "bg.jpg"
+          ]
+        },
+        {
+          "name": [
+            "bg_end.jpg"
+          ],
+          "srcs": [
+            "bg_end.jpg"
+          ]
+        },
+        {
+          "name": [
+            "btn/btn.json"
+          ],
+          "srcs": [
+            "btn/btn@1x.json",
+            "btn/btn@0.5x.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "name": [
+            "fonts/Mikado.otf"
+          ],
+          "srcs": [
+            "fonts/Mikado.woff2"
+          ],
+          "data": {
+            "tags": {
+              "wf": true
+            }
+          }
+        },
+        {
+          "name": [
+            "quiz/quiz.json"
+          ],
+          "srcs": [
+            "quiz/quiz@1x.json",
+            "quiz/quiz@0.5x.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
